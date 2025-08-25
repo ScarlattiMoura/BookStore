@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1756131822 source:c:\users\aluno\documents\visual studio 2017\livraria\livraria\livraria\main.cpp
+	<iostream>
+	<windows.h>
+	"MinhaConta.h"
+
+1756131928 c:\users\aluno\documents\visual studio 2017\livraria\livraria\livraria\minhaconta.h
+	<iostream>
+	<string>
+
+1756142311 source:c:\users\aluno\downloads\livraria\main.cpp
+	<iostream>
+	<windows.h>
+	"MinhaConta.h"
+
+1756142849 c:\users\aluno\downloads\livraria\minhaconta.h
+	<iostream>
+	<string>
+	<fstream>
+
