@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1756592427 source:/home/scarlatti/Downloads/Bookstore/j/j/main.cpp
+	<ncurses.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<limits>
+	<algorithm>
+	<fstream>
+	<sstream>
+	<memory>
+	<ctime>
+
