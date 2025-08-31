@@ -1,6 +1,0 @@
-PESSOA;Funcionario;João Silva;joao@livraria.com;4444-4444;1001;2500.000000
-PESSOA;Gerente;Maria Santos;maria@livraria.com;5555-5555;1002;4500.000000;Vendas
-LIVRO;1;1984;Ficção Distópica;45.900000;15;1949/6/8;George Orwell
-LIVRO;2;O Senhor dos Anéis;Fantasia;89.900000;8;1954/7/29;J.R.R. Tolkien
-LIVRO;3;Dom Casmurro;Romance;29.900000;20;1899/1/1;Machado de Assis
-LIVRO;4;hh;hh;66.000000;7;1/1/2000;hh
